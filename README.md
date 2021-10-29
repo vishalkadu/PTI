@@ -35,6 +35,9 @@ After that, we partition the wine into two categories, i.e., Good and Bad.
 after applying different machine learing algorithms we get different model accuracies such as 
 
 ![image](https://user-images.githubusercontent.com/86619476/139458329-b5b25ddd-c814-4814-bdd5-ce616bf1724c.png)
+
+![image](https://user-images.githubusercontent.com/86619476/139458817-b48a36f2-2f4e-4896-b5c9-d4001ebb41a8.png)
+
 ![image](https://user-images.githubusercontent.com/86619476/139458446-a32299e0-8703-4b17-9e62-0dda2ab189ea.png)
 
 
