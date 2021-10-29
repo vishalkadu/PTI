@@ -49,9 +49,8 @@ Logistic regression with 87.30%, Decision Tree Classifier with 86.98%, Support V
 #### In this, We will predict the price of the Gold.
 ![goldprice-1610094551](https://user-images.githubusercontent.com/86619476/139431892-6240297f-c9bb-477d-9640-07130f5b8237.jpg)
 
-##### Features:
 
-This data file is a Comma separated value file format with 2290 rows and 7 columns.
+The dataset data file is a Comma separated value file format with 2290 rows and 7 columns.
 
 It contains 5 columns which are numerical in datatype and one column in Date format.
 
@@ -64,6 +63,7 @@ Exploratory data analysis tells us that the price of GLD  is positively related 
 
 we used for Random Forest Algorithm for Regression and got almost 98% accuracy.
 
+![image](https://user-images.githubusercontent.com/86619476/139462276-a33627c2-f241-4987-bf3b-2835773e2c41.png)
 
 
 
