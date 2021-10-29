@@ -28,6 +28,17 @@ bacteria.
 pH : In wine pH is used for checking acidity
 density.
 
+The primary extend is to find out the quality of Wine based on the components given within the dataset.
+here we have 11 independent variables and 1 dependant/Target variable that's quality. 
+by using EDA, the relationship between the quality of wine with its chemical compositions can be found out.
+After that, we partition the wine into two categories, i.e., Good and Bad.
+after applying different machine learing algorithms we get different model accuracies such as 
+
+![image](https://user-images.githubusercontent.com/86619476/139458329-b5b25ddd-c814-4814-bdd5-ce616bf1724c.png)
+![image](https://user-images.githubusercontent.com/86619476/139458446-a32299e0-8703-4b17-9e62-0dda2ab189ea.png)
+
+
+
 ### Final Project 2: 
 #### In this, We will predict the price of the Gold.
 ![goldprice-1610094551](https://user-images.githubusercontent.com/86619476/139431892-6240297f-c9bb-477d-9640-07130f5b8237.jpg)
@@ -56,6 +67,7 @@ We will create a model with the following steps:
  Make predictions using the trained model
 
  Create a test case and generate a predicted 
+
 
 
 
