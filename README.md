@@ -1,10 +1,10 @@
 # TCR-Innovation ML-With-Python-Internship
 
-##Final Project 1:
+## Final Project 1:
 
-### Liquor_Quality_Prediction
+### Liquor Quality Prediction
 
-![project_wine_quality](https://user-images.githubusercontent.com/86619476/139291740-3ee295f7-219d-4c45-8802-f5d25560b103.jpg)
+![image](https://user-images.githubusercontent.com/86619476/139453045-68239cff-c15a-4d9e-9ed0-efbaa3cf9fa1.png)
 
 #### Features
 
@@ -28,7 +28,7 @@ bacteria.
 pH : In wine pH is used for checking acidity
 density.
 
-###Final Project 2: 
+### Final Project 2: 
 #### In this, We will predict the price of the Gold.
 ![goldprice-1610094551](https://user-images.githubusercontent.com/86619476/139431892-6240297f-c9bb-477d-9640-07130f5b8237.jpg)
 
