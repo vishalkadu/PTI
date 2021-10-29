@@ -2,9 +2,9 @@
 
 ## Final Project 1:
 
-### Liquor Quality Prediction
+### In this we will do Liquor Quality Prediction
 
-![image](https://user-images.githubusercontent.com/86619476/139453045-68239cff-c15a-4d9e-9ed0-efbaa3cf9fa1.png)
+!![image](https://user-images.githubusercontent.com/86619476/139455456-4f1e32c8-7f51-4c0c-b3a5-fd730f73ab79.png)
 
 #### Features
 
