@@ -58,21 +58,11 @@ It contains 5 columns which are numerical in datatype and one column in Date for
 Clearly the data shows value of the variables SPX,GLD,USO,SLV,EUR/USD
 against the dates in the date column
 
-We will create a model with the following steps:
+We predicted the price of Gold based on the 4 independent variables(SPX, USO, SLV, EUR/USD) provided in the dataset and GLD  is Target/Dependent variable.
 
- Import the relevant packages
+Exploratory data analysis tells us that the price of GLD  is positively related to SLV and SPX and negatively related to USO, and does not have a significant correlation with the last variable EUR/USD.
 
- Explore the dataset
-
- Prepare the dataset for training
-
- Use any prediction algorithm based upon the EDA
-
- Train the model to fit the data
-
- Make predictions using the trained model
-
- Create a test case and generate a predicted 
+we used for Random Forest Algorithm for Regression and got almost 98% accuracy.
 
 
 
