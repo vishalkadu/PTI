@@ -1,10 +1,13 @@
-# TCR-Innovation ML-With-Python-Internship
+## TCR-Innovation
+## ML-With-Python-Internship
 
-## Final Project 1:
 
-### Liquor Quality Prediction
 
-!![image](https://user-images.githubusercontent.com/86619476/139455456-4f1e32c8-7f51-4c0c-b3a5-fd730f73ab79.png)
+### Final Project 1:
+
+#### Liquor Quality Prediction
+
+![image](https://user-images.githubusercontent.com/86619476/139601629-c147a1da-ae62-4130-a61c-e732be56ead2.png)
 
 #### Features
 
