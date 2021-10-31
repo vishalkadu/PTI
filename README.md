@@ -2,7 +2,7 @@
 
 ## Final Project 1:
 
-### In this we did Liquor Quality Prediction
+### Liquor Quality Prediction
 
 !![image](https://user-images.githubusercontent.com/86619476/139455456-4f1e32c8-7f51-4c0c-b3a5-fd730f73ab79.png)
 
@@ -46,7 +46,7 @@ Logistic regression with 87.30%, Decision Tree Classifier with 86.98%, Support V
 
 
 ### Final Project 2: 
-#### In this, We predicted the price of the Gold.
+#### prediction of the price of the Gold.
 ![goldprice-1610094551](https://user-images.githubusercontent.com/86619476/139431892-6240297f-c9bb-477d-9640-07130f5b8237.jpg)
 
 
@@ -69,9 +69,10 @@ we used for Random Forest Algorithm for Regression and got almost 98% accuracy.
 
 
 ### Final Project 3: 
-#### In this, We did Prediction Of Credit Card Fraud.
+#### Prediction Of Credit Card Fraud.
 
-![image](https://user-images.githubusercontent.com/86619476/139601135-c189e913-ce87-4af4-b48b-5794ddcb7c27.png)
+
+![image](https://user-images.githubusercontent.com/86619476/139601498-238bc35a-170a-43eb-9ccd-b576b4ba6669.png)
 
 We are having the dataset containing transaction records of credit cards transactions, the dataset contains 492 frauds out of 284,807 transactions.
 
@@ -88,6 +89,8 @@ Variable 'Class' is the response variable and it takes value 1 in case of fraud 
 we used Logistic Regression Algorithm and got almost 95% Accuracy score,also we succesfully predicted whether the credit card trasnsaction is Legal or Fraud.
 
 ![image](https://user-images.githubusercontent.com/86619476/139601247-0734ad11-8772-416c-9d9d-38362a620885.png)
+
+
 
 
 
