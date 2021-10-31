@@ -2,7 +2,7 @@
 
 ## Final Project 1:
 
-### In this we will do Liquor Quality Prediction
+### In this we did Liquor Quality Prediction
 
 !![image](https://user-images.githubusercontent.com/86619476/139455456-4f1e32c8-7f51-4c0c-b3a5-fd730f73ab79.png)
 
@@ -46,7 +46,7 @@ Logistic regression with 87.30%, Decision Tree Classifier with 86.98%, Support V
 
 
 ### Final Project 2: 
-#### In this, We will predict the price of the Gold.
+#### In this, We predicted the price of the Gold.
 ![goldprice-1610094551](https://user-images.githubusercontent.com/86619476/139431892-6240297f-c9bb-477d-9640-07130f5b8237.jpg)
 
 
@@ -64,6 +64,33 @@ Exploratory data analysis tells us that the price of GLD  is positively related 
 we used for Random Forest Algorithm for Regression and got almost 98% accuracy.
 
 ![image](https://user-images.githubusercontent.com/86619476/139462276-a33627c2-f241-4987-bf3b-2835773e2c41.png)
+
+
+
+
+### Final Project 3: 
+#### In this, We did Prediction Of Credit Card Fraud.
+
+![image](https://user-images.githubusercontent.com/86619476/139601135-c189e913-ce87-4af4-b48b-5794ddcb7c27.png)
+
+We are having the dataset containing transaction records of credit cards transactions, the dataset contains 492 frauds out of 284,807 transactions.
+
+The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+
+Dataset contains only numerical input variables, due to confidentiality issues, the dataset provided that doesn't show the original features and more background information about the data, the variables V1, V2, ... V28 are the principal components.
+
+Variable 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset.
+
+The Variable 'Amount' is the transaction Amount.
+
+Variable 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
+
+we used Logistic Regression Algorithm and got almost 95% Accuracy score,also we succesfully predicted whether the credit card trasnsaction is Legal or Fraud.
+
+![image](https://user-images.githubusercontent.com/86619476/139601247-0734ad11-8772-416c-9d9d-38362a620885.png)
+
+
+
 
 
 
