@@ -89,12 +89,14 @@ The Variable 'Amount' is the transaction Amount.
 
 Variable 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
-we used Logistic Regression Algorithm and got almost 95% Accuracy score,also we succesfully predicted whether the credit card trasnsaction is Legal or Fraud.
+we used Logistic Regression Algorithm (95% Accuracy score).
+
+we succesfully predicted whether the credit card trasnsaction is Legal or Fraud.
 
 ![image](https://user-images.githubusercontent.com/86619476/139601247-0734ad11-8772-416c-9d9d-38362a620885.png)
 
 
-
+** Thanks.**
 
 
 
