@@ -5,35 +5,25 @@
 
 ### Final Project 1:
 
-#### 1.Liquor Quality Prediction
+#### 1.Wine Quality Prediction
 
 ![image](https://user-images.githubusercontent.com/86619476/139601676-2c6b50a0-95c8-434e-b215-603eff9a7c02.png)
 
-#### Features
-
-volatile acidity : Volatile acidity is the gaseous acids present in wine. fixed acidity : Primary fixed acids found in wine are tartaric, succinic, citric, and malic
-
-residual sugar : Amount of sugar left after fermentation.
-
-citric acid : It is weak organic acid, found in citrus fruits naturally.
-
-chlorides : Amount of salt present in wine.
-
-free sulfur dioxide : So2 is used for prevention of wine by oxidation and microbial
-
-spoilage. total sulfur dioxide
-
-alcohol : Percent of alcohol present in wine. 
-
-sulphates : Added sulfites preserve freshness and protect wine from oxidation, and
-bacteria.
-
-pH : In wine pH is used for checking acidity
-density.
-
 The primary extend is to find out the quality of Wine based on the components given within the dataset.
 here we have 11 independent variables and 1 dependant/Target variable that's quality. 
-by using EDA, the relationship between the quality of wine with its chemical compositions can be found out.
+Volatile acidity is the gaseous acids present in wine. fixed acidity : Primary fixed acids found in wine are tartaric, succinic, citric, and malic
+residual sugar is the Amount of sugar left after fermentation.
+citric acid is weak organic acid, found in citrus fruits naturally.
+chlorides is the Amount of salt present in wine.
+free sulfur dioxide i.e. So2 is used for prevention of wine by oxidation and microbial spoilage.
+total sulfur dioxide
+alcohol is Percent of alcohol present in wine. 
+sulphates is Added sulfites preserve freshness and protect wine from oxidation, and
+bacteria.
+pH is used for checking acidity
+density.
+
+By using Exploratory Data Analysis,the relationship between the quality of wine with its chemical compositions can be found out.
 After that, we partition the wine into two categories, i.e., Good and Bad.
 after applying different machine learing algorithms we get different model accuracies such as,
 Logistic regression with 87.30%, Decision Tree Classifier with 86.98%, Support Vector Machine with 89.20% and  k-nearest neighbors (KNN) with 89.52% accuracy.
