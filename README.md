@@ -4,7 +4,7 @@
 
 
 ### Final Project 1:
-#### Wine Quality Prediction
+#### Wine Quality Identification 
 ![image](https://user-images.githubusercontent.com/86619476/139601676-2c6b50a0-95c8-434e-b215-603eff9a7c02.png)
 
 The primary extend is to find out the quality of Wine based on the components given within the dataset.
@@ -48,7 +48,7 @@ Logistic regression with 87.30%, Decision Tree Classifier with 86.98%, Support V
 
 
 ### Final Project 2: 
-#### prediction of the price of the Gold.
+#### Forcasting Price of Gold.
 ![goldprice-1610094551](https://user-images.githubusercontent.com/86619476/139431892-6240297f-c9bb-477d-9640-07130f5b8237.jpg)
 
 
@@ -71,7 +71,7 @@ we used for Random Forest Algorithm for Regression and got almost 98% accuracy.
 
 
 ### Final Project 3: 
-#### Prediction Of Credit Card Fraud.
+#### Detection Of Credit Card Fraud.
 
 
 ![image](https://user-images.githubusercontent.com/86619476/139601498-238bc35a-170a-43eb-9ccd-b576b4ba6669.png)
