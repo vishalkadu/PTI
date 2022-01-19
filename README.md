@@ -1,5 +1,5 @@
 
-### Final Project 1:
+### Project 1:
 #### Wine Quality Identification 
 ![image](https://user-images.githubusercontent.com/86619476/139601676-2c6b50a0-95c8-434e-b215-603eff9a7c02.png)
 
@@ -43,7 +43,7 @@ Logistic regression with 87.30%, Decision Tree Classifier with 86.98%, Support V
 
 
 
-### Final Project 2: 
+### Project 2: 
 #### Forcasting Price of Gold.
 ![goldprice-1610094551](https://user-images.githubusercontent.com/86619476/139431892-6240297f-c9bb-477d-9640-07130f5b8237.jpg)
 
@@ -66,7 +66,7 @@ we used for Random Forest Algorithm for Regression and got almost 98% accuracy.
 
 
 
-### Final Project 3: 
+### Project 3: 
 #### Detection Of Credit Card Fraud.
 
 
