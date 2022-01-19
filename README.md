@@ -1,7 +1,3 @@
-## TCR-Innovation
-## ML-With-Python-Internship
-
-
 
 ### Final Project 1:
 #### Wine Quality Identification 
